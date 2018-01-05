@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 That way, if you decide to make further changes and your other collaborator made changes on the online repository, you can always compare both files to the last known state. Therefore making it easier for you to integrate the changes made by the other people you work on the same project.
 
+Now that you've seen how multiple people can share changes to a project using GitHub, and review proposed changes using pull requests, go add the following question and your thoughts on it to your reflections file:
+
+Without Github, I think the only way to collaborate effectively is by doing the project face to face or in person and letting the other person know each and every changes you make to the file. It would be much easier with Github because you could work remotely and be more efficient in working together in a single project.
