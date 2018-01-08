@@ -17,3 +17,7 @@ That way, if you decide to make further changes and your other collaborator made
 Now that you've seen how multiple people can share changes to a project using GitHub, and review proposed changes using pull requests, go add the following question and your thoughts on it to your reflections file:
 
 Without Github, I think the only way to collaborate effectively is by doing the project face to face or in person and letting the other person know each and every changes you make to the file. It would be much easier with Github because you could work remotely and be more efficient in working together in a single project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to collaborate with other people and want to know their feedback first you want to make changes in a separate branch first. The only benefit that making changes directly to the master is that the 'workflow' is much less time consuming.
